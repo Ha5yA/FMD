@@ -243,6 +243,7 @@ function Init()
   AddWebsiteModule('HoshikuzuuScans', 'http://hoshiscans.shounen-ai.net', cat)
   AddWebsiteModule('YaoiIsLife', 'http://yaoislife.shounen-ai.net', cat)
   AddWebsiteModule('FujoshiBitches', 'http://fujoshibitches.shounen-ai.net', cat)
+
   
   -- es-sc
   cat = 'Spanish-Scanlation'
